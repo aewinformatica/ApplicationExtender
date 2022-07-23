@@ -33,6 +33,7 @@
 		<File Name="main.h"/>
 		<File Name="splash.cpp"/>
 		<File Name="splash.h"/>
-		<File Name="NovoArquivo.rc"/>
+		<File Name="resource.rc"/>
+		<File Name="resource.h"/>
 	</Files>
 </Project>

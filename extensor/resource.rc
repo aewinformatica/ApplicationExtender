@@ -1,4 +1,3 @@
-
 #include "resource.h"
-
-IDB_BITMAP2 BITMAP "interlude.bmp"
+IDB_BITMAP2  BITMAP "interlude.bmp"
+IDB_BITMAP3  BITMAP "drow.bmp"

@@ -8,7 +8,7 @@ extern "C" DLL_EXPORT BOOL APIENTRY DllMain(HINSTANCE hInstance, DWORD dwReason,
     {
         case DLL_PROCESS_ATTACH:
 
-				g_SplashScreen.Init(NULL, hInstance, IDB_BITMAP2);
+				g_SplashScreen.Init(NULL, hInstance, IDB_BITMAP3);
 				g_SplashScreen.Show();
 				// g_SplashScreen.Hide();
 				            
