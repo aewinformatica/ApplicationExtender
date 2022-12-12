@@ -2,16 +2,48 @@
 <Layout>
 	<Files>
 		<File Name="main.cpp" Top="No" Tabpos="1" TopLine="1">
-			<Cursor Line="11" Column="53"/>
-		</File>
-		<File Name="resource.rc" Top="No" Tabpos="2" TopLine="1">
-			<Cursor Line="3" Column="31"/>
-		</File>
-		<File Name="splash.cpp" Top="No" Tabpos="3" TopLine="22">
 			<Cursor Line="1" Column="1"/>
 		</File>
-		<File Name="resource.h" Top="Yes" Tabpos="4" TopLine="1">
-			<Cursor Line="2" Column="44"/>
+		<File Name="HookManager.h" Top="No" Tabpos="2" TopLine="1">
+			<Cursor Line="12" Column="12"/>
+			<Selection Line="12" Column="7"/>
+		</File>
+		<File Name="OtherAction.cpp" Top="Yes" Tabpos="3" TopLine="1">
+			<Cursor Line="14" Column="77"/>
+		</File>
+		<File Name="OtherAction.h" Top="No" Tabpos="4" TopLine="1">
+			<Cursor Line="5" Column="7"/>
+			<Selection Line="5" Column="19"/>
+		</File>
+		<File Name="StdAfx.h" Top="No" Tabpos="5" TopLine="22">
+			<Cursor Line="34" Column="36"/>
+		</File>
+		<File Name="splash.cpp" Top="No" Tabpos="6" TopLine="23">
+			<Cursor Line="1" Column="1"/>
+		</File>
+		<File Name="resource.rc" Top="No" Tabpos="7" TopLine="1">
+			<Cursor Line="1" Column="1"/>
+		</File>
+		<File Name="resource.h" Top="No" Tabpos="8" TopLine="1">
+			<Cursor Line="1" Column="1"/>
+		</File>
+		<File Name="HookManager.cpp" Top="No" Tabpos="9" TopLine="1">
+			<Cursor Line="1" Column="1"/>
+		</File>
+		<File Name="main.h" Top="No" Tabpos="10" TopLine="1">
+			<Cursor Line="1" Column="1"/>
+		</File>
+		<File Name="splash.h" Top="No" Tabpos="11" TopLine="1">
+			<Cursor Line="1" Column="1"/>
+		</File>
+		<File Name="Title.h" Top="No" Tabpos="12" TopLine="1">
+			<Cursor Line="1" Column="1"/>
+		</File>
+		<File Name="Title.cpp" Top="No" Tabpos="13" TopLine="1">
+			<Cursor Line="1" Column="1"/>
+		</File>
+		<File Name="ThreadSafe.h" Top="No" Tabpos="14" TopLine="1">
+			<Cursor Line="1" Column="1"/>
 		</File>
 	</Files>
 </Layout>

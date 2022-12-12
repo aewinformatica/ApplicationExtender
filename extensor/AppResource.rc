@@ -1,0 +1,26 @@
+#include "resource.rc"
+1 VERSIONINFO
+    FILEVERSION 1,0,0,0
+    PRODUCTVERSION 1,0,0,0
+    FILEOS 0x4L
+    FILETYPE 0x1L
+BEGIN
+    BLOCK "StringFileInfo"
+    BEGIN
+        BLOCK "041604E4"
+        BEGIN
+            VALUE "CompanyName", "AewInformatica"
+            VALUE "FileDescription", "Dinamic Link Library"
+            VALUE "FileVersion", "1.0.0.0"
+            VALUE "InternalName", "Extensor"
+            VALUE "LegalCopyright", ""
+            VALUE "OriginalFilename", "extensor.dll"
+            VALUE "ProductName", "Extender"
+            VALUE "ProductVersion", "1.0.0.0"
+        END
+    END
+    BLOCK "VarFileInfo"
+    BEGIN
+        VALUE "Translation", 0x0416, 0x04E4
+    END
+END

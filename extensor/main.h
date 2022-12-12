@@ -8,6 +8,9 @@
 #include <string.h>
 #include <iostream>
 #include "Splash.h"
+#include "ThreadSafe.h"
+#include "OtherAction.h"
+#include "HookManager.h"
 #include "resource.h"
 
 #ifdef BUILD_DLL

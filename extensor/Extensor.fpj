@@ -4,14 +4,14 @@
 		<VersionNumbers Major="1" Minor="0" Release="0" Build="0"/>
 		<LanguageID Value="1046"/>
 		<CharsetID Value="1252"/>
-		<CompanyName Value=""/>
+		<CompanyName Value="AewInformatica"/>
 		<FileVersion Value="1.0.0.0"/>
 		<FileDescription Value="Dinamic Link Library"/>
-		<InternalName Value=""/>
+		<InternalName Value="Extensor"/>
 		<LegalCopyright Value=""/>
 		<LegalTrademarks Value=""/>
-		<OriginalFilename Value=""/>
-		<ProductName Value=""/>
+		<OriginalFilename Value="extensor.dll"/>
+		<ProductName Value="Extender"/>
 		<ProductVersion Value="1.0.0.0"/>
 		<AutoIncrementBuild Value="No"/>
 	</VersionInfo>
@@ -35,5 +35,13 @@
 		<File Name="splash.h"/>
 		<File Name="resource.rc"/>
 		<File Name="resource.h"/>
+		<File Name="Title.h"/>
+		<File Name="Title.cpp"/>
+		<File Name="HookManager.h"/>
+		<File Name="HookManager.cpp"/>
+		<File Name="StdAfx.h"/>
+		<File Name="ThreadSafe.h"/>
+		<File Name="OtherAction.h"/>
+		<File Name="OtherAction.cpp"/>
 	</Files>
 </Project>
